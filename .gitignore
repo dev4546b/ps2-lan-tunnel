@@ -1,0 +1,17 @@
+build/
+out/
+deps/
+*.user
+.vs/
+.vscode/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.obj
+*.exe
+*.log
+config.ini
